@@ -6,22 +6,6 @@
 <div align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+this+is+Preben!;Welcome+to+my+github!" alt="Typing SVG" /></a></div>
 <hr>
 
-<h2 align="center">🔷 A hardworking and passionate nerd from Norway 🔷</h2>
-<p align="left">Growing up in Norway, a country known for its "technological advancements", I found myself immersed in the world of computers and technology from an early age. I was captivated by the endless possibilities and the power of coding, which fueled my passion for all things nerdy.
-My insatiable curiosity and thirst for knowledge led me to constantly seek new challenges and opportunities.</p>
-<p align="left">Beyond the confines of my computer screen, I discovered the power of technology to transform lives and make a positive impact on society. I became passionate about leveraging my skills to create innovative solutions that could solve real-world problems, whether it was through developing educational tools, optimizing processes, or creating accessible software for individuals with disabilities.</p>
-<p align="left">Despite being labeled as a "nerd," I embraced my identity with pride. I believe that passion and dedication are the driving forces behind achieving greatness, and I strive to be a catalyst for change in the tech world. My journey as a hardworking and passionate nerd continues, as I aim to push the boundaries of what is possible and leave a lasting impact on the world through my technological pursuits.</p>
-
-<h3>👱🏻‍♂️ About me </h3>
-<ul>
-<li> 👷‍♂️ 4+ years professional experience | 15~ years of personal experience</li>
-<li> ⭐ I’m currently developing a <b>mood tracking app & personal website</b></li>
-<li> 💬 Ask me about my thoughts on <b>AI or automation</b></li>
-<li> 🌎 Working for a world with less work </li>
-</ul>
-
-<hr>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prebenb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prebenb" height="30" width="40" /></a>
